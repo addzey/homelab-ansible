@@ -1,2 +1,2 @@
 # homelab-ansible
-Ansible code for my homelab setup
+Ansible code for my homelab
